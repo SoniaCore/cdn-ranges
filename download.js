@@ -8,9 +8,9 @@ const formats = ['txt', 'csv', 'json']
 
 const opts = program
   .description(
-    'A tool to download IP ranges of CDN for bug bounties\nCreated by Tay (https://github.com/taythebot)'
+    'A tool to download IP ranges of CDN for bug bounties\nCreated by Tay (https://github.com/taythebot) forked version'
   )
-  .version('1.0.0')
+  .version('1.0.1')
   .requiredOption(
     '-f, --format <type>',
     'output format (txt, csv, json)',
