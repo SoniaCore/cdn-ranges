@@ -9,6 +9,7 @@ This was heavily inspired by [Project Discovery's cdncheck](https://github.com/p
 Provider | ASN or Public List
 --- | ---
 Akamai | AS12222, AS16625
+ArvanCloud | https://www.arvancloud.com/fa/ips.txt
 CacheFly |  https://cachefly.cachefly.net/ips/rproxy.txt
 CDNetworks | AS36408
 Cloudflare | https://www.cloudflare.com/ips-v4
